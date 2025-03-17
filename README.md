@@ -12,19 +12,19 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 ## How to Reach Me
 - 📫 Find me on [GitHub](https://github.com/1OT4) or on Discord (*_1ota*). I might even reply before my code breaks again.
 
-## Fun (and Funny) Facts
+## Other Stuffs
 - 😄 **Pronouns:** Any/None (because consistency is overrated)
 - ⚡ **Fun Fact:** My code often surprises me—usually by not working as intended.
 
 ## GitHub Stats
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="1OT4's GitHub Stats" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="1OT4's Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Iota's GitHub Stats" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Iota's Top Languages" />
 </div>
 
 ## Coding Profile Stats
 <div align="center">
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=1ota&theme=dark)
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=1ota&theme=dark" alt="Codeforces Stats">
 </div>
 
 ## Technologies & Tools
