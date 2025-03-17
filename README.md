@@ -1,4 +1,4 @@
-# Hey, I'm 1OT4 👋
+# Hey, I'm Iota 👋
 
 ## About Me
 I'm a competitive programmer who often pretends to know what I'm doing. I spend most of my time wrestling with code that barely works, and every successful compile feels like a miracle. Currently drowning in **Disjoint Set Union (DSU)**—because why not add another confusing puzzle to the mix?
