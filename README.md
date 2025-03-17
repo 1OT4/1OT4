@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on **DSA related repos**
 - 🤔 I’m looking for help with **problems**
 - 💬 Ask me about **nothing**
-- 📫 How to reach me: **github**
+- 📫 How to reach me: **github, discord (*_1ota*)**
 - 😄 Pronouns: **Any/None**
 - ⚡ Fun fact: **I am dumber than I look**
