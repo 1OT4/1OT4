@@ -18,9 +18,7 @@
 
 ## 📈 Coding Profile Stats
 
-<a href="https://codeforces.com/profile/1ota">
-  <img align="center" height="322" src="stats/codeforces_stats.svg" alt="1ota Codeforces Stats"/>
-</a>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=1ota&theme=dark)
 
 ## 🧩 Technologies I've Worked With
 
