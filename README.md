@@ -12,8 +12,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="1OT4's Stats" />
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="1OT4's Top Languages" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="1OT4's Stats" />
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="1OT4's Top Languages" />
 </div>
 
 ## 📈 Coding Profile Stats
