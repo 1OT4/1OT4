@@ -14,7 +14,7 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 
 ## Other Stuffs
 - 😄 **Pronouns:** Any/None (because consistency is overrated)
-- ⚡ **Fun Fact:** My code often surprises me—usually by not working as intended.
+- ⚡ **Fun Fact:** Every time I run my code, it surprises me—in every hilariously disastrous way imaginable.
 
 ## GitHub Stats
 <div align="center">
