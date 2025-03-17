@@ -23,7 +23,9 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 </div>
 
 ## Coding Profile Stats
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=1ota&theme=dark)
+<div align="center">
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=1ota&theme=dark)
+</div>
 
 ## Technologies & Tools
 <p align="center">
