@@ -31,6 +31,7 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 ## Technologies & Tools
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3f7cad.svg?logo=python&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-0F599C?logo=C&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
