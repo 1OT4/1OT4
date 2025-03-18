@@ -13,7 +13,7 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 - 😄 **Pronouns:** Any/None (because consistency is overrated)
 - ⚡ **Fun Fact:** Every time I run my code, it surprises me—in every hilariously disastrous way imaginable.
 
-## 📌 Featured Repositories
+## Featured Repositories
 - 🧰 [cp-Templates](https://github.com/1OT4/cp-Templates): Precode templates, STL snippets, and frequently used algorithms.
 - 🎯 [codeforces-solutions](https://github.com/1OT4/codeforces-solutions): Structured archive of my Codeforces submissions and contests.
 
