@@ -9,12 +9,13 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 - 👯 **Collaboration:** Always open to joining forces on DSA projects—misery does love company.
 - 🤔 **Problem Solving:** Tackling problems with all the enthusiasm of someone who just discovered their coffee can't fix everything.
 
-## How to Reach Me
-- 📫 Find me on [GitHub](https://github.com/1OT4) or on Discord (*_1ota*). I might even reply before my code breaks again.
-
 ## Other Stuffs
 - 😄 **Pronouns:** Any/None (because consistency is overrated)
 - ⚡ **Fun Fact:** Every time I run my code, it surprises me—in every hilariously disastrous way imaginable.
+
+## 📌 Featured Repositories
+- 🧰 [cp-Templates](https://github.com/1OT4/cp-Templates): Precode templates, STL snippets, and frequently used algorithms.
+- 🎯 [codeforces-solutions](https://github.com/1OT4/codeforces-solutions): Structured archive of my Codeforces submissions and contests.
 
 ## GitHub Stats
 <div align="center">
@@ -40,4 +41,7 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 </p>
 
 ## Let's Connect!
-Thanks for stopping by my corner of GitHub. If you have a cool project, a quirky idea, or just want to swap sarcastic coding war stories, don't hesitate to reach out. Let's build something extraordinary—or at least have a few laughs trying!
+Thanks for stopping by my corner of GitHub. If you’ve got a cool project, an interesting problem, or just want to share coding horror stories — reach out!
+
+- 📫 [GitHub](https://github.com/1OT4)  
+- 💬 Discord: `_1ota`  
