@@ -18,10 +18,10 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 - 🎯 [codeforces-solutions](https://github.com/1OT4/codeforces-solutions): Structured archive of my Codeforces submissions and contests.
 
 ## GitHub Stats
-<div align="center">
+<div align="center"> <a href="https://github.com/1OT4">
   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Iota's GitHub Stats" />
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OT4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Iota's Top Languages" />
-</div>
+</a> </div>
 
 ## Coding Profile Stats
 <div align="center">
