@@ -26,7 +26,7 @@ I'm a competitive programmer who often pretends to know what I'm doing. I spend 
 ## Coding Profile Stats
 <div align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=1ota&theme=dark" alt="Codeforces Stats">
-  <img src="https://leetcard.jacoblin.cool/1ota?theme=nord&font=Cairo&ext=activity" alt="Leetcode Stats">
+  <img src="https://leetcard.jacoblin.cool/1ota?theme=dark&font=Cairo&ext=activity" alt="Leetcode Stats">
 </div>
 
 ## Technologies & Tools
